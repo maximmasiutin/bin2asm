@@ -2,7 +2,7 @@
 The BIN to ASM Encoder Utility Version 1.1. Written on November 2nd, 1993. Copyright (C) 1993 by MasyutinMax (Maxim Masiutin)
 ## Usage
 ```
-Usage :  [path] BIN2ASM[.EXE]  [switches] source[.com] [,] [dest[.asm]]
+Usage :  [path]BIN2ASM[.EXE]  [switches] source[.com] [,] [dest[.asm]]
  when source       - any binary file,
       dest         - file, that would be created by BIN2ASM.
 Switches :
